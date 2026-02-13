@@ -140,25 +140,7 @@ Category performance
 
 Interactive filters
 
-## How to Run This Project
-
-Clone the repository
-
-git clone https://github.com/yourusername/customer-shopping-behavior-analysis.git
-
-
-Open Jupyter Notebook and run:
-
-Customer_Shopping_Behavior_Analysis.ipynb
-
-
-Run SQL queries in PostgreSQL
-
-Open Power BI dashboard file:
-
-customer_behavior_dashboard.pbix
-
-Skills Demonstrated
+## Skills Demonstrated
 
 Data Cleaning
 
