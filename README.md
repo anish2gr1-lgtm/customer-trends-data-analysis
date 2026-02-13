@@ -106,26 +106,6 @@ Optimize discount strategies for maximum revenue impact
 
 Use customer segmentation for targeted marketing campaigns
 
-## Project Structure
-Customer-Shopping-Behavior-Analysis/
-│
-├── data/
-│   └── customer_shopping_behavior.csv
-│
-├── notebooks/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
-│
-├── sql/
-│   └── customer behaviour sql queries.sql
-│
-├── dashboard/
-│   └── customer_behavior_dashboard.pbix
-│
-├── presentation/
-│   └── Customer-Shopping-Behavior-Analysis.pptx
-│
-└── README.md
-
 ## Dashboard Preview
 
 Power BI dashboard includes:
